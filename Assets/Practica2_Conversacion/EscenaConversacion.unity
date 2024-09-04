@@ -172,13 +172,13 @@ MonoBehaviour:
     imagen: {fileID: 21300000, guid: 97ac73926d90ef64f955a4bbbe1d0661, type: 3}
   - name: 'Luigi:'
     comentario: AHH, Emm Hola mario
-    imagen: {fileID: 21300000, guid: 08485d001a3d35a4e9f36e7aa6f896b5, type: 3}
+    imagen: {fileID: 21300000, guid: 21d9cfc603f836043a22176ec25835d7, type: 3}
   - name: 'Mario:'
     comentario: Luigi, Que estas haciendo?
-    imagen: {fileID: 21300000, guid: 7585e1a9945d64640ac5498597230615, type: 3}
+    imagen: {fileID: 21300000, guid: e65bef10019add644bbbbbda1b04ecab, type: 3}
   - name: 'Luigi:'
     comentario: Emmm Adiooooos....
-    imagen: {fileID: 21300000, guid: d8bcd0018ad56e741b3ddd0c75dcc15a, type: 3}
+    imagen: {fileID: 21300000, guid: 8c2c80e2443231a43ab2d4e51d52a29d, type: 3}
   nombre: {fileID: 925555824}
   comentario: {fileID: 1020857201}
   foto: {fileID: 1182578598}
