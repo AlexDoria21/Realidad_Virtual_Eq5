@@ -15,15 +15,15 @@ EditorBuildSettings:
     path: Assets/Cambioescenas/fin.unity
     guid: 0b11a0057b83a6a40943704f9a03025b
   - enabled: 1
-    path: Assets/Presentaciones/DORIA.unity
+    path: Assets/Practica1_Presentaciones/DORIA.unity
     guid: 6930e845b039d7b49aa9884e005ebdf4
   - enabled: 1
-    path: Assets/Presentaciones/Hector.unity
+    path: Assets/Practica1_Presentaciones/Hector.unity
     guid: 61721f4b8c114584499f4447d14604e5
   - enabled: 1
-    path: Assets/Presentaciones/Roberto.unity
+    path: Assets/Practica1_Presentaciones/Roberto.unity
     guid: 7b4bb0ff427c80549b6f42aeeecad553
   - enabled: 1
-    path: Assets/Presentaciones/EQUIPO.unity
+    path: Assets/Practica1_Presentaciones/EQUIPO.unity
     guid: 2b45f657396b4384ba3bb587a55593b9
   m_configObjects: {}

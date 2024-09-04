@@ -167,17 +167,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   charla:
-  - name: Mario
-    comentario: Luigi, que estas haciendo?
+  - name: 'Mario:'
+    comentario: Hola Luigi
     imagen: {fileID: 21300000, guid: 97ac73926d90ef64f955a4bbbe1d0661, type: 3}
-  - name: Luigi
-    comentario: Emm..
+  - name: 'Luigi:'
+    comentario: AHH, Emm Hola mario
     imagen: {fileID: 21300000, guid: 08485d001a3d35a4e9f36e7aa6f896b5, type: 3}
-  - name: Mario
-    comentario: Vuelve aqui!
+  - name: 'Mario:'
+    comentario: Luigi, Que estas haciendo?
     imagen: {fileID: 21300000, guid: 7585e1a9945d64640ac5498597230615, type: 3}
-  - name: Luigi
-    comentario: AAHHHH!
+  - name: 'Luigi:'
+    comentario: Emmm Adiooooos....
     imagen: {fileID: 21300000, guid: d8bcd0018ad56e741b3ddd0c75dcc15a, type: 3}
   nombre: {fileID: 925555824}
   comentario: {fileID: 1020857201}

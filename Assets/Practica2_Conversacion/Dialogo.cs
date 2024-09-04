@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Dialogo : MonoBehaviour
 {
     [System.Serializable]
-        public struct Charla{
+    public struct Charla{
         public string name;
         public string comentario;
         public Sprite imagen;
