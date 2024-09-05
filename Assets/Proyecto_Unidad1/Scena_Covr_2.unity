@@ -419,7 +419,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53e1884289eb130458d6e8a78440c6e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  charla: []
+  charla:
+  - name: Roberto
+    comentario: Viste el partido de ayer?
+    imagen: {fileID: 21300000, guid: 201948511d91c33448f174b6eeb1ed5d, type: 3}
+  - name: Efrain
+    comentario: 'No, no me dio chance '
+    imagen: {fileID: 21300000, guid: 9c8e3c112452fee408486d36ae6f50cb, type: 3}
+  - name: Efrain
+    comentario: Pero, quien jugo?
+    imagen: {fileID: 21300000, guid: 9c8e3c112452fee408486d36ae6f50cb, type: 3}
+  - name: Roberto
+    comentario: El Manchester City y el United
+    imagen: {fileID: 21300000, guid: 201948511d91c33448f174b6eeb1ed5d, type: 3}
+  - name: Efrain
+    comentario: Woaw y cuanto quedaron?
+    imagen: {fileID: 21300000, guid: 9c8e3c112452fee408486d36ae6f50cb, type: 3}
+  - name: Roberto
+    comentario: 'Quedaron 3 a 1 '
+    imagen: {fileID: 21300000, guid: 201948511d91c33448f174b6eeb1ed5d, type: 3}
+  - name: Efrain
+    comentario: A favor de quien?
+    imagen: {fileID: 21300000, guid: 9c8e3c112452fee408486d36ae6f50cb, type: 3}
+  - name: Roberto
+    comentario: Manchester City, Obviamente
+    imagen: {fileID: 21300000, guid: 201948511d91c33448f174b6eeb1ed5d, type: 3}
+  - name: Efrain
+    comentario: 'Yo le voy al United :c '
+    imagen: {fileID: 21300000, guid: 9c8e3c112452fee408486d36ae6f50cb, type: 3}
+  - name: Hector
+    comentario: Que menso
+    imagen: {fileID: 21300000, guid: 13f83eedacc4e8b4a8ecb22ddb631ef2, type: 3}
   nombre: {fileID: 129024715}
   comentario: {fileID: 536275593}
   foto: {fileID: 1176461511}
