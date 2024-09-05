@@ -27,9 +27,11 @@ public class CambioEscenas : MonoBehaviour
                     cambioEscena(3);
                     break;
                 case 3:
+                    cambioEscena(4);
+                    break;
+                case 4:
                     cambioEscena(0);
                     break;
-                    
             }
         } 
     }
