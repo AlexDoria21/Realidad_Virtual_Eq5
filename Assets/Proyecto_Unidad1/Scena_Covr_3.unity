@@ -419,7 +419,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53e1884289eb130458d6e8a78440c6e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  charla: []
+  charla:
+  - name: "To\xF1o"
+    comentario: Has jugado el nuevo Zelda?
+    imagen: {fileID: 21300000, guid: 525fdbdc9bd2e8744a19fd61f88cfbff, type: 3}
+  - name: Hector
+    comentario: No, es bueno?
+    imagen: {fileID: 21300000, guid: 13f83eedacc4e8b4a8ecb22ddb631ef2, type: 3}
+  - name: "To\xF1o"
+    comentario: Si, es increible
+    imagen: {fileID: 21300000, guid: 525fdbdc9bd2e8744a19fd61f88cfbff, type: 3}
+  - name: Hector
+    comentario: Es dificil?
+    imagen: {fileID: 21300000, guid: 13f83eedacc4e8b4a8ecb22ddb631ef2, type: 3}
+  - name: "To\xF1o"
+    comentario: No tanto pero es entretenido
+    imagen: {fileID: 21300000, guid: 525fdbdc9bd2e8744a19fd61f88cfbff, type: 3}
+  - name: Hector
+    comentario: Me lo recomendarias?
+    imagen: {fileID: 21300000, guid: 13f83eedacc4e8b4a8ecb22ddb631ef2, type: 3}
+  - name: "To\xF1o"
+    comentario: Absolutamente
+    imagen: {fileID: 21300000, guid: 525fdbdc9bd2e8744a19fd61f88cfbff, type: 3}
+  - name: Hector
+    comentario: Cuantas horas llevas?
+    imagen: {fileID: 21300000, guid: 13f83eedacc4e8b4a8ecb22ddb631ef2, type: 3}
+  - name: "To\xF1o"
+    comentario: Unas 60 horas aproximadamente
+    imagen: {fileID: 21300000, guid: 525fdbdc9bd2e8744a19fd61f88cfbff, type: 3}
+  - name: Hector
+    comentario: Entonces debo probarlo!
+    imagen: {fileID: 21300000, guid: 13f83eedacc4e8b4a8ecb22ddb631ef2, type: 3}
   nombre: {fileID: 129024715}
   comentario: {fileID: 536275593}
   foto: {fileID: 1176461511}
