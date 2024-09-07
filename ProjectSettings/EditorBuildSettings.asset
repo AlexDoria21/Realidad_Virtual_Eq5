@@ -4,47 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Cambioescenas/inicio.unity
-    guid: da5038441b3658344920fb51bc3952cc
-  - enabled: 0
-    path: Assets/Cambioescenas/contenido.unity
-    guid: 6404a511d18b5164bb699dc3801e0a32
-  - enabled: 0
-    path: Assets/Cambioescenas/fin.unity
-    guid: 0b11a0057b83a6a40943704f9a03025b
-  - enabled: 0
-    path: Assets/Practica1_Presentaciones/DORIA.unity
-    guid: 6930e845b039d7b49aa9884e005ebdf4
-  - enabled: 0
-    path: Assets/Practica1_Presentaciones/Hector.unity
-    guid: 61721f4b8c114584499f4447d14604e5
-  - enabled: 0
-    path: Assets/Practica1_Presentaciones/Roberto.unity
-    guid: 7b4bb0ff427c80549b6f42aeeecad553
-  - enabled: 0
-    path: "Assets/Practica1_Presentaciones/To\xF1o.unity"
-    guid: 3bbb630d0ff21fa4ca5ff1af76d83f0e
-  - enabled: 0
-    path: Assets/Practica1_Presentaciones/EQUIPO.unity
-    guid: 2b45f657396b4384ba3bb587a55593b9
-  - enabled: 1
-    path: Assets/Proyecto_Unidad1/Inicio.unity
-    guid: a141f1f22c97bde479e80a762685159f
-  - enabled: 1
-    path: Assets/Proyecto_Unidad1/Scena_Covr.unity
-    guid: 0d108185097bb7743b9f7af9b7f3e5e4
-  - enabled: 1
-    path: Assets/Proyecto_Unidad1/Scena_Covr_2.unity
-    guid: 456ce4810ae73b44d9f1a2527fcc176e
-  - enabled: 1
-    path: Assets/Proyecto_Unidad1/Scena_Covr_3.unity
-    guid: 03fee547360b2e44a9db137d4980f5f6
-  - enabled: 1
-    path: Assets/Proyecto_Unidad1/Scena_Covr_4.unity
-    guid: d325b19e4dbc43f4b89f7e9ff3cd8aca
-  - enabled: 1
-    path: Assets/Proyecto_Unidad1/Fin.unity
-    guid: 1dc8fbc70b3061f45a301ebe780fa1e4
+  m_Scenes: []
   m_configObjects: {}
